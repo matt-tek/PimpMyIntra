@@ -1,0 +1,7 @@
+div#sidebar {
+    background: linear-gradient(90deg, blue, cyan);
+}
+
+div .header-wrapper {
+    background: linear-gradient(90deg, blue, cyan);
+}

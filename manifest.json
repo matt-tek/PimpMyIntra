@@ -1,0 +1,13 @@
+{
+    "name": "PimpMyIntra",
+    "version": "1.0",
+    "manifest_version": 2,
+    "content_scripts": [
+        {
+            "matches": ["https://intra.epitech.eu/*"],
+            "css": ["style.css"],
+            "script": ["main.js"]
+        }
+    ]
+
+}
